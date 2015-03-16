@@ -17,6 +17,7 @@ class GameScene: SKScene {
         myLabel.position = CGPoint(x:CGRectGetMidX(self.frame), y:CGRectGetMidY(self.frame));
         //do some stuff
         //do some more stuff
+        //do yet more stuff
         self.addChild(myLabel)
     }
     
